@@ -19,3 +19,7 @@ Skills Demonstrated:
 
 Screenshots:
 (see /screenshots folder)
+### 1. IP Configuration
+### 2. Ping Tests
+### 3. DNS Test
+### 4. Routing Trace
